@@ -1,2 +1,2 @@
 # PROYECTO-INTEGRADOR
-Dataset y scripts 
+Scripts 
